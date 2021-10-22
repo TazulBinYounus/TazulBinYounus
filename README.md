@@ -41,12 +41,12 @@
 
 
 ------------
-
+<!-- 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://saimunhossain.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://saimunhossain.github.io-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/md-saimun-hossain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@saimunhossain-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:hossainmdsaimun@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hossainmdsaimun@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+</p> -->
 
